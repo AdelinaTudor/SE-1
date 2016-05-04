@@ -60,10 +60,10 @@ Repository mini Proiecte TD SdE
 |<ol><li>Hau Roxana</li><li>Tila Simona </li><li>Balhis Christelle </li><li>Susanu Marius</li><li>Korked Bechir</li></ol> | Caesar . Algorithmes de cryptage  |https://github.com/susanu/Caesar|
 |<ol><li>Duta Crina</li><li>Ionita Adrian</li><li>Brezoaie Robert</li><li>Danu Cosmin</li></ol>| WebCrawler avec fils d'execution | https://github.com/danucosmin/Web-Crawler-Mini-Projet|
 |<ol><li>Bratu Madalina</li><li>Ovejan Anamaria</li><li>Albu Dragos</li><li>Ursachi Tudor</li></ol> |Generation et resolution d'un labyrinthe avec fils d'execution|https://github.com/TudorUrsachi9505/SE-MiniProjet||<ol><li>Grigorescu Ioana</li><li>Avram Andrei</li></ol>|https://github.com/IoanaGrigorescu/SE-MiniProjet||
-|<ol><li>Tudor Georgiana</li><li>Ilie Iulia</li></ol>|Futoshiki||
+|<ol><li>Tudor Georgiana</li><li>Ilie Iulia</li></ol>|Futoshiki|https://github.com/tudorgabriela/Futoshiki|
 |<ol><li>Radulescu Alexandra</li><li>Colea Alexandra</li><li>Baciu Alina</li><li>Yousfi Amine</li></ol>|Generateur de numbres aleatoires en utilisant services web ???||
 |<ol><li>Cioiu Ioana Dumitrina</li><li>Fainaru Ioana Gabriela</li><li>Jugarean Carmen</li></ol>|Simulateur de trafic aéroportuaire|https://github.com/ioanacioiu30/Aeroport|
-|<ol><li>Guran Carmen</li><li>Mitrica Gina Maria</li><li>Tudor Adelina</li></ol>|Machine de Turing||
+|<ol><li>Guran Carmen</li><li>Mitrica Gina Maria</li><li>Tudor Adelina</li></ol>|Machine de Turing|https://github.com/GuranCarmen/MachinedeTuring|
 |<ol><li>Aldes Ana-Maria</li><li>Filip Alexandra</li><li>Nanu Maria</li></ol>|Paxos - simulation avec processus|https://github.com/filipalexamaria/Paxos|
 |<ol><li>Dumitru Robert</li><li> Lazar Adrian</li></ol>|Simulateur de trafic urbain||
 |<ol><li>Dumitrescu Daniel</li><li>Ignat Mihai</li><li>NDEME SANAMA Fabrice</li></ol>|Sudoku |https://github.com/fabricelepapi/SEprojet|
